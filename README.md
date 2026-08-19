@@ -10,7 +10,7 @@ This repository is designed for **.NET developers, backend developers, full-stac
 
 | # | Design Pattern | Category | Documentation |
 |---:|---|---|---|
-| 1 | Singleton | Creational | [Singleton Pattern](./Design-Patterns/Creational/Singleton.md) |
+| 1 | CQRS | Architectural Pattern | [CQRS Pattern](./Design-Patterns/CQRS_Complete_Guide_README.md) |
 | 2 | Factory Method | Creational | [Factory Method](./Design-Patterns/Creational/Factory-Method.md) |
 | 3 | Abstract Factory | Creational | [Abstract Factory](./Design-Patterns/Creational/Abstract-Factory.md) |
 | 4 | Builder | Creational | [Builder Pattern](./Design-Patterns/Creational/Builder.md) |
